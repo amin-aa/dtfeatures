@@ -1,0 +1,111 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.wheelhouse/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+# If you use pipenv
+Pipfile.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Test and coverage files
+.coverage
+.coverage.*
+nosetests.xml
+pytest.xml
+*.cover
+*.log
+*.pot
+*.mo
+*.pyc
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest cache
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# Cython debug symbols
+cython_debug/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Other files
+*.DS_Store
+*.class
+*.o
+*.so
+*.dll
+*.exe
+*.out
+*.app
+*.pdb
+*.idb
+*.pdb
+*.class
+*.jar
+*.war
+*.log
+*.tmp
+*.bak
+*.orig
+*.swp
+*.swo
+*.zip
+*.tar.gz
+*.tgz
+*.gz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.tar
+*.tgz
+*.tbz
+*.tbz2
+*.tz
+*.tbz
+*.tbz2
+*.tbz
+*.tbz2
