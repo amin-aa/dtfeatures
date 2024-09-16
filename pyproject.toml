@@ -1,8 +1,7 @@
 [tool.poetry]
 name = "dtfeatures"
 version = "0.1.0"
-description = "DTFeatures: A Python library designed to simplify the extraction of meaningful features from datetime objects, 
-               enabling efficient analysis and modeling of time-related data in data science and machine learning applications."
+description = "DTFeatures: A Python library designed to simplify the extraction of meaningful features from datetime objects, enabling efficient analysis and modeling of time-related data in data science and machine learning applications."
 authors = ["Amin Ahangaran <aminahangaran@gmail.com>"]
 readme = "README.md"
 
